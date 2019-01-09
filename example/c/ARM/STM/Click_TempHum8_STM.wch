@@ -1,0 +1,8 @@
+<WCH v="2">
+<item n="temphum8_getTemperature_readData_L0" r="0" s="False" e="True" i="1713">
+<item n="[0]" r="0" s="False" e="False" i="0"/>
+<item n="[1]" r="0" s="False" e="False" i="1"/>
+<item n="[2]" r="0" s="False" e="False" i="2"/>
+</item>
+<item n="temphum8_getHumidity_HumData_L0" r="0" s="False" e="True" i="1"/>
+</WCH>

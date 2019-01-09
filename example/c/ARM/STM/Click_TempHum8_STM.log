@@ -1,0 +1,22 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F107VC -UICD -BIN -LHF -DL -SSA -O11111114 -fo72 -N"D:\Clicks_git\T\Temp-Hum_8_Click\SW\example\c\ARM\STM\Click_TempHum8_STM.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\" -SP"D:\Clicks_git\T\Temp-Hum_8_Click\SW\example\c\ARM\STM\" -SP"D:\Clicks_git\T\Temp-Hum_8_Click\SW\library\HAL\" -SP"D:\Clicks_git\T\Temp-Hum_8_Click\SW\library\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\mikroBUS Board Definition API\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\TI M3\" -IP"D:\Clicks_git\T\Temp-Hum_8_Click\SW\example\c\ARM\STM\" -IP"D:\Clicks_git\T\Temp-Hum_8_Click\SW\library\" -IP"D:\Clicks_git\T\Temp-Hum_8_Click\SW\library\HAL\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\mikroBUS Board Definition API\Uses\" "Click_TempHum8_STM.c" "__temphum8_driver.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_105_107.emcl" "__Lib_GPIO_32F10x_Defs.emcl" "__Lib_GPIO_32F10x.emcl" "__Lib_CString.emcl" "__Lib_Conversions.emcl" "__Lib_I2C_12.emcl" "__Lib_UART_123_45.emcl" "easymx_v7_STM32F107VC.emcl" "Click_TempHum8.pld"	 
+diagnostics: 0	122	Compilation Started	stdint.h
+diagnostics: 78	123	Compiled Successfully	Click_TempHum8_STM.c
+hint: 49	1164	Variable 'Temperature' has been eliminated by optimizer	Click_TempHum8_STM.c
+hint: 50	1164	Variable 'Humidity' has been eliminated by optimizer	Click_TempHum8_STM.c
+diagnostics: 0	122	Compilation Started	stdint.h
+hint: 251	1163	Variable 'crc' has been declared, but not used	__temphum8_driver.c
+diagnostics: 294	123	Compiled Successfully	__temphum8_driver.c
+hint: 323	1164	Variable 'tmp' has been eliminated by optimizer	__temphum8_driver.c
+hint: 84	1164	Variable 'tmp' has been eliminated by optimizer	__temphum8_driver.c
+hint: 101	1164	Variable 'ptr' has been eliminated by optimizer	__temphum8_driver.c
+hint: 109	1164	Variable 'ptr' has been eliminated by optimizer	__temphum8_driver.c
+hint: 141	1164	Variable 'error' has been eliminated by optimizer	__temphum8_driver.c
+hint: 168	1164	Variable 'dataWrite' has been eliminated by optimizer	__temphum8_driver.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 170   Dynamic RAM (bytes): 65361	Static RAM (bytes): 170   Dynamic RAM (bytes): 65361
+hint: 0	1144	Used ROM (bytes): 10471 (4%)  Free ROM (bytes): 251673 (96%)	Used ROM (bytes): 10471 (4%)  Free ROM (bytes): 251673 (96%)
+diagnostics: 0	125	Project Linked Successfully	Click_TempHum8_STM.mcpar
+diagnostics: 0	128	Linked in 297 ms	 
+diagnostics: 0	129	Project 'Click_TempHum8_STM.mcpar' completed: 531 ms	 
+diagnostics: 0	103	Finished successfully: 15 nov 2018, 09:43:02	Click_TempHum8_STM.mcpar
